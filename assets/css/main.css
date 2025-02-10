@@ -820,7 +820,7 @@ section,
   }
 }
 
-.works works-content {
+.works .works-content {
   position: relative;
   overflow: hidden;
 }
